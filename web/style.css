@@ -1,0 +1,148 @@
+body {
+	background-color:#9C0000; 
+	color: white;
+	font-family: verdana;
+	font-size: 12px;
+	margin-top: 0px; 
+	margin-bottom: 0px; 
+	margin-left: 0px; 
+	margin-right: 0px;
+}
+
+A {
+	color: lime;
+	text-decoration: none;
+}
+
+A:visited {
+	color: lime;
+	text-decoration: none;
+}
+
+A:hover {
+	color: lime;
+	text-decoration: underline;
+}
+
+
+#main_table {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:720px;
+	height:480px;
+}
+
+#wcsc-logo {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:122px;
+	height:91px;
+}
+
+#top-banner {
+	position:absolute;
+	left:122px;
+	top:0px;
+	width:598px;
+	height:90px;
+}
+
+#text-area {
+	position:absolute;
+	left:145px;
+	top:100px;
+	width:598px;
+	height:389px;
+	vertical-align:top;
+}
+
+#home {
+	position:absolute;
+	left:0px;
+	top:91px;
+	width:122px;
+	height:21px;
+}
+
+#constitution {
+	position:absolute;
+	left:0px;
+	top:112px;
+	width:122px;
+	height:23px;
+}
+
+#leg-board {
+	position:absolute;
+	left:0px;
+	top:135px;
+	width:122px;
+	height:21px;
+}
+
+#events-board {
+	position:absolute;
+	left:0px;
+	top:156px;
+	width:122px;
+	height:21px;
+}
+
+#judicial-board {
+	position:absolute;
+	left:0px;
+	top:177px;
+	width:122px;
+	height:21px;
+}
+
+#elections {
+	position:absolute;
+	left:0px;
+	top:198px;
+	width:122px;
+	height:22px;
+}
+
+#pictures {
+	position:absolute;
+	left:0px;
+	top:220px;
+	width:122px;
+	height:21px;
+}
+
+#calendar {
+	position:absolute;
+	left:0px;
+	top:241px;
+	width:122px;
+	height:21px;
+}
+
+#forms-docs {
+	position:absolute;
+	left:0px;
+	top:262px;
+	width:122px;
+	height:21px;
+}
+
+#member-area {
+	position:absolute;
+	left:0px;
+	top:283px;
+	width:122px;
+	height:21px;
+}
+
+#menu-bottom {
+	position:absolute;
+	left:0px;
+	top:304px;
+	width:122px;
+	height:57px;
+	background-color:#9C0000;
+}
